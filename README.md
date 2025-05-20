@@ -1,4 +1,4 @@
-# README – Cloud-Native Web App – Software Security Design
+# README – Cloud-Native Web App – Security System Design
 
 In questo progetto sono state apportate migliorie ad alcune funzionalità della web app presente nella repository [**Cloud-Native Web App – Software Architecture Design**](https://github.com/FrancyScogna/cloud-native-web-app-sad).
 Inoltre, sono stati analizzati e applicati requisiti di sicurezza seguendo le linee guida NIST, utilizzando la piattaforma online **ThreatModeler** per la definizione e la gestione del modello di minacce (threat model).
